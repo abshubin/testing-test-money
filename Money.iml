@@ -22,10 +22,21 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Downloads/JUnitParams-1.0.4.jar!/" />
+          <root url="jar://$USER_HOME$/JAR Files/JUnitParams-1.0.4.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/JAR Files/mockito-all-1.10.19.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/JAR Files/mockito-all-1.10.19.jar!/" />
+        </SOURCES>
       </library>
     </orderEntry>
   </component>
